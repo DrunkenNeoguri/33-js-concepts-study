@@ -10,9 +10,9 @@
 [![기존 레포 제작자](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
 ## 소개
-이 레포지토리는 개발자들이 자바스크립트의 컨셉을 마스터하는 데에 도움을 주기 위한 목적으로 만들어졌습니다.  
-이것은 필수사항이 아니지만, 미래의 공부에 길잡이가 되어줄 것입니다.
-이 글은 [Stephen Curtis](https://twitter.com/stephenthecurt)의 글에 의해 기초가 되어있으며, 해당 [글](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)은 여기서 읽을 수 있습니다.
+이 레포지토리는 개발자들이 자바스크립트의 컨셉을 마스터하는 데에 도움을 주기 위한 목적으로 만들어졌습니다.    
+이것은 필수사항이 아니지만, 미래의 공부에 길잡이가 되어줄 것입니다.  
+이 글은 [Stephen Curtis](https://twitter.com/stephenthecurt)의 글에 의해 기초가 되어있으며, 해당 [글](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)은 여기서 읽을 수 있습니다.  
 
 ## 커뮤니티  
 
