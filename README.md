@@ -3,52 +3,31 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+    모든 자바스크립트 개발자가 알아야 할 33가지의 컨셉
   <br><br>
 </h1>
 
-[![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
+[![기존 레포 제작자](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
-## Introduction 
+## 소개
+이 레포지토리는 개발자들이 자바스크립트의 컨셉을 마스터하는 데에 도움을 주기 위한 목적으로 만들어졌습니다.  
+이것은 필수사항이 아니지만, 미래의 공부에 길잡이가 되어줄 것입니다.
+이 글은 [Stephen Curtis](https://twitter.com/stephenthecurt)의 글에 의해 기초가 되어있으며, 해당 [글](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)은 여기서 읽을 수 있습니다.
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+## 커뮤니티  
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+이 레포지토리는 기존 33가지 레포에서 포크를 따와서 1-3년차 개발자들끼리 스터디를 진행하기 위해 생성되었습니다.  
+함께 스터디를 진행하시는 분들은 매 주마다 아래의 33가지 테마 중에 한 가지를 선정하여 자신의 방식대로 공부해오시고 각 페이지의 README.md 등을 작성해 PR을 보내주세요.  
+공부에 참고할 영상들은 해당 레포에서 각 아래의 컨셉별로 정리를 해주셨지만, 영상이 영어로 되어있으므로 이해하기가 어렵거나, 영어가 어려우신 분들은 독자적으로 조사하신 뒤에 PR을 올려주시면 됩니다.  
 
-## Community
-
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [(Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
-- [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Português do Brasil (Brazilian Portuguese)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [한국어 (Korean)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Español (Spanish)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Türkçe (Turkish)](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [русский язык (Russian)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt (Vietnamese)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polski (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Bahasa Indonesia (Indonesian)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [Français (French)](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [हिन्दी (Hindi)](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Ελληνικά (Greek)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [日本語 (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23
-- [Deutsch (German)](https://github.com/burhannn/33-js-concepts) — burhannn
-- [украї́нська мо́ва (Ukrainian)](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
-- [සිංහල (Sinhala)](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
-- [Italiano (Italian)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
-- [ภาษาไทย (Thai)](https://github.com/ninearif/33-js-concepts) — Arif Waram
-- [Català (Catalan)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
-- [ខ្មែរ (Khmer)](https://github.com/Chhunneng/33-js-concepts) — Chrea Chanchhunneng
-- [አማርኛ (Ethiopian)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
-- [Беларуская мова (Belarussian)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
+스터디를 진행하시는 분들은 매주 일요일 저녁에 다같이 모여서 각 스터디의 내용을 발표하고, 이에 관한 질의응답과 회고를 나누는 시간을 가집니다.  
+스터디 모집은 [트위터](https://www.twitter.com/develop_neoguri)에서 진행하고 있습니다.  
+혹시, 해당 레포를 보고 계시는 Intermediate 혹은 Senior 개발자분들이 계신다면 잘못된 내용이나 보충하고 싶으신 내용이 있을 시, 이슈나 PR 등으로 적극적인 의견을 주시면 감사하겠습니다.  
+많은 분들의 관심과 참여가 스터디를 진행하고, 또 해당 레포를 참고해주시는 분들의 큰 지식이 됩니다.  
 
 ---
 
-## <a id="table-of-contents">Table of Contents</a>
+## <a id="table-of-contents">목차</a>
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
